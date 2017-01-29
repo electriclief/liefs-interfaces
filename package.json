@@ -1,0 +1,12 @@
+{
+  "name": "liefs-interfaces",
+  "version": "1.0.0",
+  "description": "This repos is loaded by NPM liefs-layout-manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Stacy Lief Kelly",
+  "license": "ISC"
+}
